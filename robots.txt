@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-002f5l.bokupaybymobile.com/sitemap.xml
